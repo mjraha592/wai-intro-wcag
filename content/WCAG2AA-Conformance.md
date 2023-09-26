@@ -2,7 +2,7 @@
 title: "Web Content Accessibility Guidelines (WCAG) 2 Level AA Conformance"
 title_html: "Web Content Accessibility Guidelines (WCAG) 2<br>Level AA Conformance"
 permalink: /WCAG2AA-Conformance
-lang: en
+lang: ene
 ref: /WCAG2AA-Conformance
 github:
   repository: wai-intro-wcag
